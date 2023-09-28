@@ -1,4 +1,4 @@
-# Web_Automation_By_TestNG
+# Web_Automation_By_TestNG_And_Selenium
 
 **TestNG** is one of the most widely used open-source testing framework used in automation testing suite.
 - TestNG is a very important framework when you are actually developing the framework from scratch level.
